@@ -1,4 +1,5 @@
-KUAS Wifi Auto Login
+NTHU Wifi Auto Login
+This is a fork from kuastw/KUAS-Wifi-Auto-Login.
 ===========
 
 ## TODO-List:
